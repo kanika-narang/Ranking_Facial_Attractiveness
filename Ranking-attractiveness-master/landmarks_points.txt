@@ -1,0 +1,24 @@
+left eyebrow: 17,21
+right eyebrow: 22,26
+eyebrow right middle:24
+eyebrow left middle:19
+left eye top:37
+left eye bottom:41
+right eye top:44
+right eye bottom:46
+left eye: 36,39
+right eye: 42, 45
+nose top: 27
+nose bottom:33
+nose left:31
+nose right:35
+lip left:48
+lip right:54
+lip top: 51
+lip middle:66
+lip bottom:57
+eyes se face width:0,16
+nose se face width:2,14
+lips se width:4,12
+chin: 8
+chin width: 6,10
